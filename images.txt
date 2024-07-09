@@ -1,1 +1,1 @@
-apache/rocketmq:5.2.0
+ibm-semeru-runtimes:open-8u392-b08-jre-jammy
