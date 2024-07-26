@@ -1,1 +1,2 @@
-keking/kkfileview-jdk:latest
+ibm-semeru-runtimes:open-21-jre
+ibm-semeru-runtimes:open-17-jre
