@@ -1,1 +1,1 @@
-amazoncorretto:17-alpine3.20-jdk
+eclipse-temurin:17.0.12_7-jre-jammy
