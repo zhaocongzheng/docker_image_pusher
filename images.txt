@@ -1,1 +1,1 @@
-ubuntu/jre:17_edge
+amazoncorretto:17-alpine3.20-jdk
