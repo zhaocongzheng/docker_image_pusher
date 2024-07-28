@@ -1,1 +1,1 @@
-docker pull ubuntu/jre:17_edge
+ubuntu/jre:17_edge
