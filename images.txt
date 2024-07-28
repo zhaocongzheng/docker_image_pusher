@@ -1,2 +1,1 @@
-ibm-semeru-runtimes:open-21-jre
-ibm-semeru-runtimes:open-17-jre
+docker pull ubuntu/jre:17_edge
