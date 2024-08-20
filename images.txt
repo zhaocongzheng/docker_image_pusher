@@ -1,1 +1,1 @@
-eclipse-temurin:17.0.12_7-jre-jammy
+896515024/mds_client:latest
