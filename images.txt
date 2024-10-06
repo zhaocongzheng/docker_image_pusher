@@ -1,1 +1,2 @@
-896515024/mds_client:latest
+python:3.12.7-slim
+python:3.12.7-alpine3.20
